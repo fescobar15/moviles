@@ -1,5 +1,9 @@
 # Parcial ADB Móviles - Felipe Escobar Avila (201531251)
 
+Para correr se debe modificar la variable path y ponerla para apuntar al directorio donde esta adb.exe.
+
+El .apk va en el proyecto java.
+
 El celular que se utilizó para las pruebas fue un Moto G5 Plus con Android Oreo.
 El tamaño de la pantalla de este dispositivo es de 1080x1920.
 
